@@ -1,0 +1,36 @@
+[{
+	"DATA": "2018-09-25 14:37:46",
+	"CNPJ": "22.573.541/0001-41",
+	"ACAO": "ALTERACAO",
+	"HISTORICO": "Alteracao no Cadastro (e-mail principal: junior@inforteltelecom.com.br; e-mail secundario: financeiro@inforteltelecom.com.br e e-mail reserva: sem e-mail cadastrado).",
+	"COD_MATRICULA": "c079436",
+	"CO_PV": "5459"
+}, {
+	"DATA": "2018-08-07 12:02:13",
+	"CNPJ": "22.573.541/0001-41",
+	"ACAO": "ALTERACAO",
+	"HISTORICO": "Alteracao no Cadastro (e-mail principal: junior@inforteltelecom.com.br; e-mail secundario: financeiro@inforteltelecom.com.br e e-mail reserva: financeiro@inforteltelecom.com.br).",
+	"COD_MATRICULA": "c131978",
+	"CO_PV": "449"
+}, {
+	"DATA": "2018-08-01 18:08:26",
+	"CNPJ": "22.573.541/0001-41",
+	"ACAO": "ALTERACAO",
+	"HISTORICO": "Alteracao no Cadastro (e-mail principal: sem e-mail cadastrado; e-mail secundario: sem e-mail cadastrado e e-mail reserva: sem e-mail cadastrado).",
+	"COD_MATRICULA": "c079436",
+	"CO_PV": "5459"
+}, {
+	"DATA": "2018-08-01 18:07:43",
+	"CNPJ": "22.573.541/0001-41",
+	"ACAO": "ALTERACAO",
+	"HISTORICO": "Alteracao no Cadastro (e-mail principal: teste@caixa.com; e-mail secundario: sem e-mail cadastrado e e-mail reserva: sem e-mail cadastrado).",
+	"COD_MATRICULA": "c079436",
+	"CO_PV": "5459"
+}, {
+	"DATA": "2018-08-01 17:52:19",
+	"CNPJ": "22.573.541/0001-41",
+	"ACAO": "ALTERACAO",
+	"HISTORICO": "Alteracao no Cadastro (e-mail principal: sem e-mail cadastrado; e-mail secundario: sem e-mail cadastrado e e-mail reserva: sem e-mail cadastrado).",
+	"COD_MATRICULA": "c079436",
+	"CO_PV": "5459"
+}]
